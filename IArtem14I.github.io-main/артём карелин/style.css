@@ -1,0 +1,51 @@
+body{
+    background-image: url(1.jpg);
+    background-size: cover; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+
+    } 
+.logo{
+    width: 200px;
+    box-shadow: 5px 10px 15px rgb(0, 0, 0);
+    color: black;
+    width: 250px;
+    
+    }
+.logo:hover{
+    width: 300px;
+}
+.desk_oss{
+    border-radius: 40px;
+    border: 3px solid rebeccapurple;
+    background-color: rgba(137, 43, 226, 0.575);
+    box-shadow: 10px 20px 25px rgb(0, 0, 0) ; 
+    width: 400px;
+    height: 900px;
+    margin: 0 auto;
+    
+    
+}
+    
+
+
+.glav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    color:rgb(6, 3, 8);
+    text-shadow: 5px 10px 15px rgb(197, 27, 50) ;
+
+}
+.glav:hover{
+    color:rgb(82, 12, 12)
+}
+.general {
+    width: 100%;
+    background-image: linear-gradient(blue red);
+}
+.btn{
+    width: 100px;
+    background-color: azure;
+    text-decoration: none;
+}
